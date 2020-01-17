@@ -1,7 +1,7 @@
 {
-    "name"              :"Isy2020",
+    "name"              :"HelloWorld",
     "description"       :"My first plugin",
-    "namespace"         :"Isy2020",
+    "namespace"         :"HelloWorld",
     "author"            :"Your name",
     "type"              :"template",
     "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
